@@ -40,8 +40,7 @@ wozmon: array[0..326] of byte =
 Creating KIM-1 Simulator ROM include files
 kimrom002 include file created
 kimrom003 include file created
-'''
 kimsimrom include file created
-
 wozmon include file created
 ```
+
