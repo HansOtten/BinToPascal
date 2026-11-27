@@ -181,7 +181,7 @@ end ;
 
 begin
 
-  writeln('Creating KIM-1 Simulator ROM include files V1.1 Hans Otten 2026') ;
+  writeln('Creating ROM include files V1.1 Hans Otten 2026') ;
   if not FileExists(listfilename)
     then
       begin
