@@ -1,8 +1,9 @@
 BinToPascal
 
 Utility to create Pascal include file from binary data files.
-
 Requires a file called 'BintoPascal.ini' with on each line the information to create the include file.
+
+Used in the KIM-1 Simulator and the TIM/Jolt Simulator. 
 
 Build with lazarus or Freepascal 
 ```
@@ -37,7 +38,7 @@ wozmon: array[0..326] of byte =
 ```
 >BintoPascal.exe
 
-Creating KIM-1 Simulator ROM include files
+Creating ROM include files V1.1 Hans Otten 2026
 kimrom002 include file created
 kimrom003 include file created
 kimsimrom include file created
